@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "397876177539",
+    "firebase_url": "https://insta-wash01-default-rtdb.firebaseio.com",
+    "project_id": "insta-wash01",
+    "storage_bucket": "insta-wash01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:397876177539:android:ce9d3e8ebb184fd930c9b6",
+        "android_client_info": {
+          "package_name": "com.id.instawash"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkiUtYT7BRJrZ7lL6RlRghPSPDdm7dhjw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
